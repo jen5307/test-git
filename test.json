@@ -1,4 +1,4 @@
 {
-	name: "Bill",
-	type: "Person"
+	"name": "Bill",
+	"type": "Person"
 }
